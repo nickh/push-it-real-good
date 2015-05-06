@@ -1,4 +1,4 @@
-# Testing a pushlog
+# Testing a changed pushlog
 
 * update at Mon Sep 15 13:46:50 PDT 2014
 * update at Mon Sep 15 13:46:59 PDT 2014
